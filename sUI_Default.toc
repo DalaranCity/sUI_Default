@@ -1,0 +1,5 @@
+## Interface: 70000
+## Title: sUI Default
+## Notes: Several UI tweaks using pure World of Warcraft builtin variables
+
+sUI_Default.lua
