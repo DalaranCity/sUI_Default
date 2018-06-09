@@ -3,9 +3,9 @@
 
 function sUI_Default (channel, password, frameId, hasVoice)
   -- General
-  SetCVar("alwaysCompareItems", 0)
+  SetCVar("alwaysCompareItems", 1)
   SetCVar("autoLootDefault", 1)
-  SetCVar("lootUnderMouse", 1)
+  SetCVar("lootUnderMouse", 0)
 
   -- Unit frames
   SetCVar("showTargetOfTarget", 1)
