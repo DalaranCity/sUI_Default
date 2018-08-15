@@ -37,7 +37,7 @@ function sUI_Default (channel, password, frameId, hasVoice)
   SetCVar("chatBubbles", 1)
   SetCVar("chatBubblesParty", 0)
   SetCVar("colorChatNamesByClass", 1)
-  SetCVar("guildMemberNotify", 0)
+  SetCVar("guildMemberNotify", 1)
   SetCVar("whisperMode", "inline")
 
   -- Chat filter
